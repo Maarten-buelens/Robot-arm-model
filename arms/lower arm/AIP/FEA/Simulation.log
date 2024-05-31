@@ -1,0 +1,48 @@
+﻿Study Static Analysis:1 started: 3/04/2024, 16:24:53
+Number of configurations: 1
+Default mesh: 21386 elements, 33746 nodes
+Study        Worst Jacobian ratio :  2.61  on element 10364 finished: 3/04/2024, 16:24:58
+Total time 0:00:05
+
+Study Static Analysis:1 started: 3/04/2024, 16:25:07
+Number of configurations: 1
+Default mesh: 21386 elements, 33746 nodes
+Study Static Analysis:1 finished: 3/04/2024, 16:25:08
+Total time 0:00:01
+
+Study Static Analysis:1 started: 3/04/2024, 16:25:18
+Number of configurations: 1
+Default mesh: 21386 elements, 33746 nodes
+Solution time 3.1s
+Convergence rate: 6%
+Problem converged 
+Study Static Analysis:1 finished: 3/04/2024, 16:25:22
+Total time 0:00:04
+
+Study Static Analysis:1 started: 3/04/2024, 16:25:48
+Number of configurations: 1
+Default mesh: 21386 elements, 33746 nodes
+Solution time 3s
+Convergence rate: 6%
+Problem converged 
+Study Static Analysis:1 finished: 3/04/2024, 16:25:52
+Total time 0:00:04
+
+Study Static Analysis:1 started: 3/04/2024, 16:26:15
+Number of configurations: 1
+Default mesh: 21386 elements, 33746 nodes
+Solution time 3.1s
+Convergence rate: 14%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 3/04/2024, 16:26:19
+Total time 0:00:04
+
+Study Modal Analysis:1 started: 3/04/2024, 16:26:56
+Number of configurations: 1
+Default mesh: 22085 elements, 34755 nodes
+Computed 8 frequency modes
+Solution time 2.9s
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  2.61  on element 644 finished: 3/04/2024, 16:27:02
+Total time 0:00:06
+
